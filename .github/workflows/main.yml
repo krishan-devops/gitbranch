@@ -7,7 +7,6 @@ on:
 jobs:
   demo:
     runs-on: ubantu-latest
-
  steps:
   - name: greetings
     run: echo"Hello from kk"
